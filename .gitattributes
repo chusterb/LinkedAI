@@ -1,0 +1,10 @@
+# Normaliser les fins de ligne en LF dans le repo
+* text=auto eol=lf
+
+# Binaires — pas de conversion
+*.png binary
+*.jpg binary
+*.ico binary
+*.mp4 binary
+*.woff2 binary
+*.woff binary
